@@ -1,12 +1,15 @@
 .dial {
+    margin: auto;
     height: 400px;
     width: 400px;
 }
 
 .timer{
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
     position: relative;
-    display: inline-block;
+    display: block;
 }
 
 *{
